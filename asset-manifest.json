@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/MovieMarket/static/css/main.e6c13ad2.css",
+    "main.js": "/MovieMarket/static/js/main.20712194.js",
+    "static/js/787.509827db.chunk.js": "/MovieMarket/static/js/787.509827db.chunk.js",
+    "static/media/Equalizer.gif": "/MovieMarket/static/media/Equalizer.7dd557085ea118e120b5.gif",
+    "index.html": "/MovieMarket/index.html",
+    "main.e6c13ad2.css.map": "/MovieMarket/static/css/main.e6c13ad2.css.map",
+    "main.20712194.js.map": "/MovieMarket/static/js/main.20712194.js.map",
+    "787.509827db.chunk.js.map": "/MovieMarket/static/js/787.509827db.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.20712194.js"
+  ]
+}
